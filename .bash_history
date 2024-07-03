@@ -23,3 +23,8 @@ git branch -M main
 git branch -d master
 git branch -M main
 git branch -d master
+git clean -df
+git clean -df
+git clean -df
+code .
+rm -rf .git
